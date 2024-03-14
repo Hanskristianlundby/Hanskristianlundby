@@ -36,9 +36,8 @@ Nye Ferdigheter ** Lage apper for bedrifter, Python, Lage sider i Github.
 <a href="https://www.linkedin.com/in/lundby-hans-kristian/" />
 <img src="https://img.shield.io/badge/linkedIn-007785?style=for-the-badge&logocolor=white" />
 <a href="https://github.com/Hanskristianlundby/Hanskristianlundby" />
-  <img src=" />
+  <img src=![github-mark-whitehttps] https://github.com/Hanskristianlundby/Hanskristianlundby/assets/162426973/80f6db43-7995-47de-9646-981205a371a5 />
 </a>
 </div>
 
-![github-mark](https://github.com/Hanskristianlundby/Hanskristianlundby/assets/162426973/1a29ee9b-4796-498d-b37a-8f7ecfe4d781)
 
